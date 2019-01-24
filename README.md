@@ -59,7 +59,7 @@ Don't feel shy to drop a star, if you find this repo useful. I would love for yo
 
 ## Meta
 
-Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – stanlyhardy@yahoo.com
+Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – stanlimoses@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
