@@ -63,5 +63,5 @@ Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – stanlyh
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/StanlyHardy/Semantic-Segmentation](https://github.com/StanlyHardy/)
+[https://github.com/StanlyHardy/Detect-Cracks/](https://github.com/StanlyHardy/)
 
