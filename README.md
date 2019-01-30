@@ -53,6 +53,12 @@ Run the following script to dispatch the predictor.
   python3 app.py
 ```
 
+## Result
+Original .                 |  Result
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/StanlyHardy/Detect-Cracks/master/EL.png)  |  ![](https://raw.githubusercontent.com/StanlyHardy/Detect-Cracks/master/mask2.png)
+
+
 ## Contribute
 
 Don't feel shy to drop a star, if you find this repo useful. I would love for you to contribute to **Detect-Cracks**, check the ``LICENSE`` file for more info.
